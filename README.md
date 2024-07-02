@@ -16,6 +16,7 @@ This is based on [RFC 4648](https://datatracker.ietf.org/doc/html/rfc4648)
 1. Copy `base64.rs` into your project
 1. Add `pub mod base64;` into your `lib.rs`
 1. Use `base64::encode()` and `base64::decode()`
+1. See [docs](https://andrew-shay.github.io/rust_vendor_base64/vendor_base64/base64/index.html)
 
 ```rust
 use vendor_base64::base64;  // Replace vendor_base64 with your project name
@@ -59,5 +60,7 @@ base64 crate has more features.
 Run `$ cargo test`  
 
 ## Docs
+
+See [docs](https://andrew-shay.github.io/rust_vendor_base64/vendor_base64/base64/index.html)  
 
 Run `$ cargo doc --open`
