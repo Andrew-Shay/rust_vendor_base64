@@ -64,3 +64,7 @@ Run `$ cargo test`
 See [docs](https://andrew-shay.github.io/rust_vendor_base64/vendor_base64/base64/index.html)  
 
 Run `$ cargo doc --open`
+
+# License
+
+MIT-0
